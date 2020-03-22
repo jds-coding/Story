@@ -1,1 +1,3 @@
-This is chapter 2 it is more interesting than chapter 1
+This is chapter 2 it is more interesting than chapter 1.
+
+Something strange was starting to happen.
